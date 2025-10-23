@@ -74,3 +74,8 @@ div.row {
     justify-content: space-around;
   }
 }
+
+ p{
+  color: yellow;
+  font-size: 30px;
+}
