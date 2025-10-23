@@ -15,5 +15,5 @@ let vader =document.querySelector("Dark.side")
        animationFrame = requestAnimationFrame(rotate); 
     }
 
-    rotateInCircle();
-rotate)_wasdasjodasnd
+    rotate();
+});
